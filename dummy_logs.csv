@@ -1,0 +1,5 @@
+timestamp,event_type
+2023-10-27 10:00:00,login
+2023-10-27 10:05:00,logout
+2023-10-27 10:10:00,login
+2023-10-27 10:15:00,failed_login
